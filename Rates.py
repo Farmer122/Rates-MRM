@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import spacy
 from textblob import TextBlob
-import streamlit as st
+
 
 
 # Apply a dark theme
