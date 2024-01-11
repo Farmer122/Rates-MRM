@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 import spacy
 from textblob import TextBlob
 import streamlit as st
-import streamlit_jupyter as jp
-import jupytext
 
 
 # Apply a dark theme
